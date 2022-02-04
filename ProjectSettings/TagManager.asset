@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shape
+  - ShapeI
+  - ShapeL
+  - ShapeO
+  - ShapeJ
+  - ShapeS
+  - ShapeZ
+  - ShapeT
+  - ShapeSQ
+  - ShapeI5
+  - ShapeL3x3
+  - ShapeLine3
+  - ShapeLine2
+  - ShapeL2x2
+  - ShapeO3x3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
